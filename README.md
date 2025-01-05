@@ -1,9 +1,9 @@
 # Top 10 OWASP Scanner
 GitHub Python Bash
---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Description 
 The Top 10 OWASP Scanner is a powerful Bash script designed to automate the process of discovering vulnerabilities in web applications by leveraging Google Dorks related to the OWASP Top 10 vulnerabilities. This tool is ideal for bug hunters, penetration testers, and security researchers who want to quickly identify potential security issues in a target domain.
---------------------------------------------------------------------------------------------------------------------------------------------------
+
 Features
 OWASP Top 10 Focus: Targets vulnerabilities listed in the OWASP Top 10, including:
 
