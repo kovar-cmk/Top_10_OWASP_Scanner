@@ -60,13 +60,13 @@ chmod +x top10_owasp_scanner.sh
 Usage
 ## Basic Usage
 Run the script with a target domain:
-
 bash
 Copy
 ./top10_owasp_scanner.sh example.com
 Example Output
 Copy
-==============================================
+## ==============================================
+
 [+] Testing dork: inurl:search.php?q=
 ----------------------------------------------
 No results found.
