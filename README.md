@@ -4,7 +4,7 @@ GitHub Python Bash
 ## Description 
 The Top 10 OWASP Scanner is a powerful Bash script designed to automate the process of discovering vulnerabilities in web applications by leveraging Google Dorks related to the OWASP Top 10 vulnerabilities. This tool is ideal for bug hunters, penetration testers, and security researchers who want to quickly identify potential security issues in a target domain.
 
-Features
+## Features
 OWASP Top 10 Focus: Targets vulnerabilities listed in the OWASP Top 10, including:
 
 Injection
@@ -34,8 +34,8 @@ Customizable Dorks: Easily modify or extend the list of dorks to suit your needs
 Clean Output: Provides well-formatted and easy-to-read results.
 
 Supports Multiple Domains: Scan multiple domains by running the script with different inputs.
-Installation
-Prerequisites
+## Installation
+### Prerequisites
 Python 3.7+: Required for the degoogle tool.
 
 Bash 5.0+: Required to run the script.
@@ -58,7 +58,7 @@ bash
 Copy
 chmod +x top10_owasp_scanner.sh
 Usage
-Basic Usage
+## Basic Usage
 Run the script with a target domain:
 
 bash
